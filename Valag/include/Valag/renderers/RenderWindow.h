@@ -3,14 +3,14 @@
 
 #define GLFW_INCLUDE_VULKAN
 #include <GLFW/glfw3.h>
-#include <Vulkan/vulkan.h>
+#include <vulkan/vulkan.h>
 
 #include <string>
 #include <vector>
 #include <map>
 
 #include "Valag/Types.h"
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 
 namespace vlg
 {

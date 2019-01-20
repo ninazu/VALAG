@@ -2,12 +2,12 @@
 #define VMESH_H
 
 #include <glm/glm.hpp>
-#include <Vulkan/vulkan.h>
+#include <vulkan/vulkan.h>
 #include <array>
 #include <vector>
 
 #include "Valag/Types.h"
-#include "Valag/VulkanImpl/VBuffersAllocator.h"
+#include "Valag/vulkanImpl/VBuffersAllocator.h"
 
 namespace vlg
 {

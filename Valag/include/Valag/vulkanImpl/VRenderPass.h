@@ -1,7 +1,7 @@
 #ifndef VRENDERPASS_H
 #define VRENDERPASS_H
 
-#include <Vulkan/vulkan.h>
+#include <vulkan/vulkan.h>
 #include <vector>
 
 #include "Valag/vulkanImpl/VulkanHelpers.h"

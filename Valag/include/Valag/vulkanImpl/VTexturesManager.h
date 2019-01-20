@@ -1,7 +1,7 @@
 #ifndef VTEXTURESMANAGER_H
 #define VTEXTURESMANAGER_H
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 #include "Valag/vulkanImpl/VTexture.h"
 
 #include <map>

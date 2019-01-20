@@ -1,6 +1,6 @@
 #include "Valag/renderers/InstancingRenderer.h"
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 #include "Valag/utils/Logger.h"
 #include "Valag/core/VApp.h"
 

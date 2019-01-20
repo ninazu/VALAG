@@ -1,7 +1,7 @@
 #ifndef FULLRENDERPASS_H
 #define FULLRENDERPASS_H
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 
 namespace vlg
 {

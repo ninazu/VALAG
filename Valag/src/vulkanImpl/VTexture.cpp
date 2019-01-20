@@ -1,6 +1,6 @@
 #include "Valag/vulkanImpl/VTexture.h"
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 
 namespace vlg
 {

@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <map>
-#include "Valag/utils/singleton.h"
+#include "Valag/utils/Singleton.h"
 
 namespace vlg{
 

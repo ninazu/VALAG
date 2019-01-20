@@ -7,7 +7,7 @@
 //#include <glm/glm.hpp>
 //#include <vulkan/vulkan.h>
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 #include "Valag/vulkanImpl/VTexture.h"
 
 #include "Valag/assets/Asset.h"

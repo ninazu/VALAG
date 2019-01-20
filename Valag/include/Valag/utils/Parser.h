@@ -1,7 +1,7 @@
 #ifndef PARSER_H
 #define PARSER_H
 
-#include "Valag/utils/singleton.h"
+#include "Valag/utils/Singleton.h"
 
 ///I should maybe switch to functions in a namespace
 

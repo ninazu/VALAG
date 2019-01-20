@@ -1,6 +1,6 @@
 #include "Valag/scene/IsoSpriteModel.h"
 
-#include <Vulkan/vulkan.h>
+#include <vulkan/vulkan.h>
 
 #include "Valag/assets/MaterialAsset.h"
 #include "Valag/assets/AssetHandler.h"

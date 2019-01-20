@@ -1,7 +1,7 @@
 #ifndef VGRAPHICSPIPELINE_H
 #define VGRAPHICSPIPELINE_H
 
-#include <Vulkan/Vulkan.h>
+#include <vulkan/vulkan.h>
 #include <string>
 #include <vector>
 

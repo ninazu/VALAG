@@ -63,8 +63,9 @@
 			<Add directory="Valag/include/Valag/gfx" />
 		</Compiler>
 		<Linker>
-			<Add library="vulkan-1" />
+			<Add library="vulkan" />
 			<Add library="glfw3dll" />
+			<Add library="pthread" />
 			<Add directory="../../Valag/libs" />
 		</Linker>
 		<Unit filename="../../Valag/include/Valag/Types.h" />

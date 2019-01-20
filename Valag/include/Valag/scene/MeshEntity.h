@@ -1,7 +1,7 @@
 #ifndef MESHENTITY_H
 #define MESHENTITY_H
 
-#include <Vulkan/vulkan.h>
+#include <vulkan/vulkan.h>
 #include <array>
 
 #include "Valag/scene/ShadowCaster.h"

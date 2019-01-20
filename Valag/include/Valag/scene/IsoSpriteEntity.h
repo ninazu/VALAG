@@ -5,7 +5,7 @@
 #include "Valag/scene/ShadowCaster.h"
 #include "Valag/scene/IsoSpriteModel.h"
 
-#include "Valag/vulkanImpl/vulkanImpl.h"
+#include "Valag/vulkanImpl/VulkanImpl.h"
 
 namespace vlg
 {

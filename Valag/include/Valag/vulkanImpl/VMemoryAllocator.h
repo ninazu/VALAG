@@ -2,7 +2,7 @@
 #define VMEMORYALLOCATOR_H
 
 
-#include <Vulkan/Vulkan.h>
+#include <vulkan/vulkan.h>
 #include <glm/glm.hpp>
 #include <map>
 #include <vector>
